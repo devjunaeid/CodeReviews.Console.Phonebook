@@ -17,10 +17,10 @@
 - Easier selection based Menu & Strucuted Contact Summary.
   ![New Contact](Public/NewContact.png)
   ![Contact Summary](Public/ContactTableView.png)
-  ![Modification](Public/Modify.mp4)
+  ![Modification](Public/Modify.gif)
 
 - Custom Validation for Email and Phone Number.
-  ![Validation](Public/CustomValidation.mp4)
+  ![Validation](Public/CustomValidation.gif)
 
 
 ### Uses.
