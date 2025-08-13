@@ -2,7 +2,7 @@
 #### *- Keep your contact organized...*
 
 ---------------
-![Main UI](Public/MainUI.png)
+![Main UI](Phonebook.devjunaeid/Public/MainUI.png)
 ### Tech
 - .NET(v8.0).
 - [Spectre.Console](https://spectreconsole.net)
@@ -12,15 +12,15 @@
 ### Features
 
 - Keyboard Based Navigation.
-  ![Main UI](Public/MainUI.png)
+  ![Main UI](Phonebook.devjunaeid/Public/MainUI.png)
 
 - Easier selection based Menu & Strucuted Contact Summary.
-  ![New Contact](Public/NewContact.png)
-  ![Contact Summary](Public/ContactTableView.png)
-  ![Modification](Public/Modify.gif)
+  ![New Contact](Phonebook.devjunaeid/Public/NewContact.png)
+  ![Contact Summary](Phonebook.devjunaeid/Public/ContactTableView.png)
+  ![Modification](Phonebook.devjunaeid/Public/Modify.gif)
 
 - Custom Validation for Email and Phone Number.
-  ![Validation](Public/CustomValidation.gif)
+  ![Validation](Phonebook.devjunaeid/Public/CustomValidation.gif)
 
 
 ### Uses.
